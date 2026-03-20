@@ -24,7 +24,7 @@ This application allows users to securely upload, manage, organize, and share fi
 🚀 Getting Started
 
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sheru-project/DriveSync-Complete-Website.git
 
 # Move project to XAMPP htdocs
 
@@ -33,7 +33,7 @@ git clone https://github.com/your-username/your-repo-name.git
 # Start Apache & MySQL
 
 # Run in browser
-http://localhost/project-folder
+http://localhost/drivesync
 
 
 📌 Future Improvements
